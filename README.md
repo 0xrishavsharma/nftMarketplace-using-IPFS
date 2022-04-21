@@ -1,5 +1,5 @@
 # A simple NFT Marketplace with the metadata of the NFT being stored on the IPFS
-###A Marketplace that has only 10 items to be minted and one address can mint only 1 NFT.
+### A Marketplace that has only 10 items to be minted and one address can mint only 1 NFT.
 
 #### Key highlights of the project
 1. Metadata of the NFT's will be stored on the IPFS
